@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahistoric02bedeuoft_0261.png"; bbox 0 0 1800 2976; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1800 2976 1800 2976">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1800 2976 1800 2976">
+     <span class='ocr_line' id='line_1_1' title="bbox 1800 2976 1800 2976; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1800 2976 1800 2976; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 15 352 473 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 15 352 473 2022">
+     <span class='ocr_line' id='line_1_2' title="bbox 15 352 473 2022; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 57 1616 414 2022; x_wconf 53' lang='lat'>{1⁸55</span> <span class='ocrx_word' id='word_1_3' title='bbox 15 771 473 1392; x_wconf 44' lang='grc' dir='ltr'>[ἐξεμεῖς</span> <span class='ocrx_word' id='word_1_4' title='bbox 52 352 322 707; x_wconf 57' lang='lat'>⁸⁸³1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 56 215 891 2455">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 56 0 891 2455">
+     <span class='ocr_line' id='line_1_3' title="bbox 56 215 891 2455; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 59 1335 891 2455; x_wconf 52' lang='lat' dir='ltr'>3253th</span> <span class='ocrx_word' id='word_1_6' title='bbox 56 1055 631 1619; x_wconf 47' lang='lat' dir='ltr'>{mgr</span> <span class='ocrx_word' id='word_1_7' title='bbox 233 704 831 1182; x_wconf 52' lang='lat' dir='ltr'>l}</span> <span class='ocrx_word' id='word_1_8' title='bbox 150 215 732 763; x_wconf 54' lang='lat' dir='ltr'>{th</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

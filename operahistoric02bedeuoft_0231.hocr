@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahistoric02bedeuoft_0231.png"; bbox 0 0 1800 2976; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 2976 558 2976">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 2976 558 2976">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 2976 558 2976; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 2976 558 2976; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 14 2413 541 2742">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 14 2483 476 2742">
+     <span class='ocr_line' id='line_1_2' title="bbox 14 2483 289 2742; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 14 2483 289 2742; x_wconf 61' lang='grc' dir='ltr'>ηε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 275 2413 541 2682; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 275 2413 541 2682; x_wconf 65' lang='lat'>{3⁰}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1935 19 2416">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1935 19 2416">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1935 19 2416; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 0 2207 19 2416; x_wconf 55' lang='lat' dir='ltr'>W‘</span> <span class='ocrx_word' id='word_1_5' title='bbox 0 2111 11 2200; x_wconf 56' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_6' title='bbox 0 1935 11 2057; x_wconf 40' lang='lat' dir='ltr'>&#39;’ww-*⁷</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 137 1727 808 2611">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 137 1727 808 2611">
+     <span class='ocr_line' id='line_1_5' title="bbox 137 1727 808 2611; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 137 1856 808 2611; x_wconf 51' lang='grc' dir='ltr'>ῗΞΞΞξΓ</span> <span class='ocrx_word' id='word_1_8' title='bbox 137 1727 517 2048; x_wconf 44' lang='grc' dir='ltr'>ἐξῇ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 231 1567 747 1853">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 231 1567 747 1853">
+     <span class='ocr_line' id='line_1_6' title="bbox 231 1567 747 1853; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 231 1567 747 1853; x_wconf 72' lang='lat'>33‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 1074 757 1624">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 1074 757 1624">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 1074 757 1624; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 0 1074 757 1624; x_wconf 55' lang='lat'>{322</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 434 811 1273">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 434 811 1273">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 434 608 1273; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 0 900 499 1273; x_wconf 66' lang='lat'>333³-</span> <span class='ocrx_word' id='word_1_12' title='bbox 0 434 608 917; x_wconf 48' lang='lat'>{333³</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 420 648 811 1272; textangle 90"><span class='ocrx_word' id='word_1_13' title='bbox 420 648 811 1272; x_wconf 62' lang='lat'>33331</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

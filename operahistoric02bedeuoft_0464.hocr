@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahistoric02bedeuoft_0464.png"; bbox 0 0 1800 2976; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 932 429 1800 2679">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 932 785 1800 2679">
+     <span class='ocr_line' id='line_1_1' title="bbox 932 933 1598 2341; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1172 1989 1488 2341; x_wconf 50' lang='grc' dir='ltr'>ἰ</span> <span class='ocrx_word' id='word_1_2' title='bbox 932 933 1598 1773; x_wconf 48' lang='lat'>“³353&#39;&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1135 429 1800 2679; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 1427 2394 1704 2679; x_wconf 64' lang='grc' dir='ltr'>ἷῗῖἒῗ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1265 2099 1800 2341; x_wconf 63' lang='lat'>{33</span> <span class='ocrx_word' id='word_1_5' title='bbox 1370 1778 1800 2062; x_wconf 51' lang='lat' dir='ltr'>hit</span> <span class='ocrx_word' id='word_1_6' title='bbox 1135 1280 1717 1774; x_wconf 43' lang='lat'>³312,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1263 429 1725 1343; x_wconf 51' lang='lat' dir='ltr'>531}ss</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
